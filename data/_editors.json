@@ -1,47 +1,42 @@
 [
     {
         "role": "owner",
-        "name": "SkeletalVirus",
-        "link": "https://www.youtube.com/channel/UCVifLeNLVQe3mYwRW1IiNnA"
+        "name": "YraX",
+        "link": "https://www.youtube.com/channel/UCxBJglnfiP0ETbJl1GVtYbA"
     },
     {
-        "role": "owner",
-        "name": "TheRealWacazy",
-        "link": "https://www.youtube.com/channel/UCsZRzwDnWXSwEHw0IFCCJ4Q"
+        "role": "helper",
+        "name": "Sliced",
+        "link": "https://www.youtube.com/channel/UCrJC-w_8hFYZO_pG-NkAOzw"
     },
     {
-        "role": "owner",
-        "name": "Crypto",
-        "link": "https://www.youtube.com/channel/UCU7sG-uL-r3Fg68K19-IGEA"
+        "role": "helper",
+        "name": "Grilled",
+        "link": "https://www.youtube.com/channel/UCHurLPXMhy68ExCQ704yTgA"
     },
     {
-        "role": "admin",
-        "name": "W0of",
-        "link": "https://www.youtube.com/channel/UCXjk41FXtxSmFBERzzDqspw"
+        "role": "helper",
+        "name": "Swerp",
+        "link": "https://youtube.com/channel/UC5O6GNUMNkJUPenOQuPeWFA"
     },
         {
-        "role": "admin",
-        "name": "Enenzo",
-        "link": "https://www.youtube.com/channel/UCQWVwSP9O9W9krk3RPoxEmg"
+        "role": "helper",
+        "name": "Sometwo",
+        "link": "https://www.youtube.com/channel/UCRafkOYLlEl-Hq_rjRp59TQ"
     },
             {
-        "role": "admin",
-        "name": "BriXX",
-        "link": "https://www.youtube.com/channel/UCOtzio8UKI7iYLSyxdoQxHg"
+        "role": "helper",
+        "name": "Cric2",
+        "link": "https://www.youtube.com/channel/UCLi47DwFcHKUV1yYCmnBpvw/featured"
     },
     {
         "role": "helper",
-        "name": "Florian",
-        "link": "https://www.youtube.com/channel/UCyxexTnvTeDsQekNVPHtVBg"
+        "name": "wia",
+        "link": "https://youtube.com/channel/UCoC7IRwATfU63HM_f5FjIDw"
     },
     {
         "role": "helper",
-        "name": "Siren",
-        "link": "https://www.youtube.com/channel/UCXEro4z2hGcgh8V6g4gXYWw"
-    },
-    {
-        "role": "helper",
-        "name": "BlackMoonMaster",
-        "link": "https://www.youtube.com/channel/UC6TL5Z5lW6UaBqZqaw4RF9A"
+        "name": "6rtgyt4",
+        "link": "https://www.youtube.com/channel/UCc-mfzs_L6UNXbYXr3nnXsw"
     }
 ]
