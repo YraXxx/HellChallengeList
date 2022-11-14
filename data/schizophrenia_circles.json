@@ -2,9 +2,16 @@
     "id": 79545812,
     "name": "Schizophrenia Circles",
     "author": "Grilled",
-    "creators": [Grilled],
+    "creators": [],
     "verifier": "Grilled",
     "verification": "https://www.youtube.com/watch?v=ks5UCa8jnaw",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Damian",
+            "Link": "https://www.youtube.com/watch?v=-rPsxdEkHcA",
+            "percent": 100,
+            "hz": "288"
+        }
+    ]
 }
