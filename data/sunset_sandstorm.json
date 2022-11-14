@@ -1,1 +1,23 @@
-
+{
+    "id": 75837051,
+    "name": "Sunset Sandstorm",
+    "author": "cqua",
+    "creators": [],
+    "verifier": "cqua",
+    "verification": "https://www.youtube.com/watch?v=GzraPK7qtw8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Grilled",
+            "link": "https://www.youtube.com/watch?v=RUjeuAAGDUU",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "Damian",
+            "link": "https://streamable.com/100fos",
+            "percent": 100,
+            "hz": "288"
+        }
+    ]
+}
