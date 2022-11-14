@@ -1,0 +1,41 @@
+{
+    "id": 77072979,
+    "name": "Mutilation",
+    "author": "Vreck",
+    "creators": [],
+    "verifier": "Vreck",
+    "verification": "https://www.youtube.com/watch?v=hE9TfLncmqs",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Grilled",
+            "link": "https://www.youtube.com/watch?v=ljbKf-QkFRM",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "cqua",
+            "link": "https://www.youtube.com/watch?v=stu-4MfBOMk",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=P2nnyOFLQ1A",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=KrtXCnKyW1U",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Damian",
+            "link": "https://www.youtube.com/watch?v=E16ZbMMMwIU",
+            "percent": 100,
+            "hz": "288"
+        }
+    ]
+}
