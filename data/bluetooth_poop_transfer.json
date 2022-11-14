@@ -1,0 +1,23 @@
+{
+    "id": 77846754,
+    "name": "bluetooth poop transfer",
+    "author": "Grilled",
+    "creators": [],
+    "verifier": "Grilled",
+    "verification": "https://www.youtube.com/watch?v=nonlIlzthTQ",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=gXuS6PyBjzo",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "Damian",
+            "link": "https://www.youtube.com/watch?v=5rxNQFsuG3U",
+            "percent": 100,
+            "hz": "288"
+        }
+    ]
+}
