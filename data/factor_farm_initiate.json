@@ -1,0 +1,17 @@
+{
+    "id": 79576098,
+    "name": "Factor Farm Initiate",
+    "author": "Grilled",
+    "creators": [],
+    "verifier": "Grilled",
+    "verification": "https://www.youtube.com/watch?v=J68tf5ONS7g",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Damian",
+            "link": "https://www.youtube.com/watch?v=APPHIkS_Z5E",
+            "percent": 100,
+            "hz": "288"
+        }
+    ]
+}
