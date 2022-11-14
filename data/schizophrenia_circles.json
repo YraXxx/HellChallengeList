@@ -9,7 +9,7 @@
     "records": [
         {
             "user": "Damian",
-            "Link": "https://www.youtube.com/watch?v=-rPsxdEkHcA",
+            "link": "https://www.youtube.com/watch?v=-rPsxdEkHcA",
             "percent": 100,
             "hz": "288"
         }
