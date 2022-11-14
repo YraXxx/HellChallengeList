@@ -1,0 +1,17 @@
+{
+    "id": 79551156,
+    "name": "Kowahella",
+    "author": "YraX",
+    "creators": [],
+    "verifier": "Damian",
+    "verification": "https://www.youtube.com/watch?v=uFzuslaot9E&feature=youtu.be",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Grilled",
+            "link": "https://www.youtube.com/watch?v=jLQPI2ExINY",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
