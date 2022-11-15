@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "Swerp",
+            "link": "https://www.youtube.com/watch?v=f_BXQThSjJw",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
             "user": "Grilled",
             "link": "https://www.youtube.com/watch?v=gW25tZviElc",
             "percent": 100,
