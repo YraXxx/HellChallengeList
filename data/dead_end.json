@@ -1,0 +1,17 @@
+{
+    "id": 78835982,
+    "name": "Dead End",
+    "author": "Nucleus",
+    "creators": [],
+    "verifier": "BensonGD",
+    "verification": "https://www.youtube.com/watch?v=JCpR0EKcu9M",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Lunk",
+            "link": "https://streamable.com/d11xod",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
