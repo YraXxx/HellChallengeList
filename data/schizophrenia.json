@@ -1,0 +1,53 @@
+{
+    "id": 77103885,
+    "name": "Schizophrenia",
+    "author": "Sulferz",
+    "creators": [],
+    "verifier": "wia",
+    "verification": "https://www.youtube.com/watch?v=tcuyc6wbrrE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=mbXD66Bu-v8",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=uG6YiNmSrE0",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "KubixonGD",
+            "link": "https://www.youtube.com/watch?v=iTrevPWZyws",
+            "percent": 100,
+            "hz": "288"
+        },
+      {
+            "user": "clone_gd",
+            "link": "https://www.youtube.com/watch?v=wMwzzYB3fWY",
+            "percent": 100,
+            "hz": "330"
+        },
+      {
+            "user": "Lunk",
+            "link": "https://streamable.com/t2kl3o",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=q__V0V1Z1z0",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=OiUmq2z8HFw",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
