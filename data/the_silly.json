@@ -1,0 +1,77 @@
+{
+    "id": 76964577,
+    "name": "The Silly",
+    "author": "Arelis",
+    "creators": [],
+    "verifier": "Arelis",
+    "verification": "https://www.youtube.com/watch?v=Kt_jO4ohE_g",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Ghoster",
+            "link": "https://www.youtube.com/watch?v=fdinScJCJm0",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "Vreck",
+            "link": "https://www.youtube.com/watch?v=QhAcmIgFql0",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=i6TdXUN_gdQ",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Grilled",
+            "link": "https://www.youtube.com/watch?v=gwrG4EubMhc",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "VOID",
+            "link": "https://www.youtube.com/watch?v=jHd1P5ztEJM",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=s765xRdeVPc",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Lunk",
+            "link": "https://streamable.com/87fgas",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "SaYR3X",
+            "link": "https://www.youtube.com/watch?v=ZBeXo7z5E2s",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "pilot",
+            "link": "https://www.youtube.com/watch?v=Aa1UwlDEKXU",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=NxtvDpDMPIQ",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Damian",
+            "link": "https://www.youtube.com/watch?v=YNwOSbZ6hQI",
+            "percent": 100,
+            "hz": "288"
+        }
+    ]
+}
