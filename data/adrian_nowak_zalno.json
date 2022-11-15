@@ -1,0 +1,17 @@
+{
+    "id": 77463007,
+    "name": "adrian nowak zalno",
+    "author": "KubixionGD",
+    "creators": [],
+    "verifier": "KubixionGD",
+    "verification": "https://www.youtube.com/watch?v=UklL_AqNnEM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=be6tuU5V0uA",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
