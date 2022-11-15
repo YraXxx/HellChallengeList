@@ -1,0 +1,47 @@
+{
+    "id": 76605565,
+    "name": "Discok",
+    "author": "Ghoster",
+    "creators": [],
+    "verifier": "Ghoster",
+    "verification": "https://www.youtube.com/watch?v=1JtL3WT8-NM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=FWq70mTEy8I",
+            "percent": 100,
+            "hz": "240"
+        },
+       {
+            "user": "pilot",
+            "link": "https://www.youtube.com/watch?v=3yKxJWnLQ5E",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Lunk",
+            "link": "https://streamable.com/gihz0s",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "SaYR3X",
+            "link": "https://www.youtube.com/watch?v=UT_Mvm_tXlU",
+            "percent": 100,
+            "hz": "144"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=vUaWi7PLBV8",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Damian",
+            "link": "https://www.youtube.com/watch?v=wSUJu-DrMtU",
+            "percent": 100,
+            "hz": "288"
+        }
+    ]
+}
