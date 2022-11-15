@@ -1,0 +1,29 @@
+{
+    "id": 78146327,
+    "name": "Scarlett",
+    "author": "KDNeverPositive",
+    "creators": [],
+    "verifier": "KDNeverPositive",
+    "verification": "https://www.youtube.com/watch?v=0C8N9OgZnU4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Lunk",
+            "link": "https://streamable.com/bq4xwy",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=s3KH_A_9sNc",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=5WDxW1aTiY8",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
