@@ -1,0 +1,23 @@
+{
+    "id": 77098771,
+    "name": "Ground",
+    "author": "Grilled",
+    "creators": [],
+    "verifier": "Grilled",
+    "verification": "https://www.youtube.com/watch?v=HG37i0A_g_M",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Lunk",
+            "link": "https://streamable.com/43gz2j",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=lq8RSNP5yJw",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
