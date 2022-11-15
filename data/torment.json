@@ -1,0 +1,35 @@
+{
+    "id": 78049857,
+    "name": "TORMENT",
+    "author": "Swerp",
+    "creators": [],
+    "verifier": "Swerp",
+    "verification": "https://www.youtube.com/watch?v=09dpnJY-el8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=IHQswMW0Fz0",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=bRmhj8kcMp4",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Damian",
+            "link": "https://www.youtube.com/watch?v=F5zbvphMmxg",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=5WDxW1aTiY8",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
