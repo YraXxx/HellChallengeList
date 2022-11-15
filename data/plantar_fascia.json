@@ -1,0 +1,29 @@
+{
+    "id": 77001227,
+    "name": "Plantar Fascia",
+    "author": "wia",
+    "creators": [],
+    "verifier": "Keruo",
+    "verification": "https://www.youtube.com/watch?v=0jQ3Jo6dmpo",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Ghoster",
+            "link": "https://www.youtube.com/watch?v=VtCYmSFE_Bk",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=RU49IKrZiKc",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=-iANm90-7jI",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
