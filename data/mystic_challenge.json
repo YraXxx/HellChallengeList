@@ -1,0 +1,23 @@
+{
+    "id": 60885013,
+    "name": "Mystic Challenge",
+    "author": "NievilliS",
+    "creators": [],
+    "verifier": "NievilliS",
+    "verification": "https://www.youtube.com/watch?v=RRwdjqfp0g4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=u0yEZQOfdcY",
+            "percent": 100,
+            "hz": "240"
+        },
+       {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=3BL76nj38Q8",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
