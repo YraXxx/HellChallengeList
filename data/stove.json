@@ -1,0 +1,41 @@
+{
+    "id": 77144399,
+    "name": "Stove",
+    "author": "Sometwo",
+    "creators": [],
+    "verifier": "Keruo",
+    "verification": "https://www.youtube.com/watch?v=R8DwQ2h21YU",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "SaYR3X",
+            "link": "https://www.youtube.com/watch?v=qzixX183_Z0",
+            "percent": 100,
+            "hz": "144"
+        },
+       {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=OInpEUwjxWU",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=UgQE0ztR4dM",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "zchchampque",
+            "link": "https://www.youtube.com/watch?v=6dHRvaKiP8g",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=sG8R0x_aE8E",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
