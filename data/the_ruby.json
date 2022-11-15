@@ -1,0 +1,71 @@
+{
+    "id": 77845659,
+    "name": "The Ruby",
+    "author": "Sulferz",
+    "creators": [],
+    "verifier": "Keruo",
+    "verification": "https://www.youtube.com/watch?v=i5g5yBTA0Y8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "lolShiko",
+            "link": "https://www.youtube.com/watch?v=517PoDasyh4",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=RbQwUB0nxzc",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Ghoster",
+            "link": "https://www.youtube.com/watch?v=fQYPJIpsdRY",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Lunk",
+            "link": "https://streamable.com/akhks4",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=u_FnFx41oU4",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "KubixonGD",
+            "link": "https://www.youtube.com/watch?v=x3EMzBYtoWk",
+            "percent": 100,
+            "hz": "288"
+        },
+      {
+            "user": "SaYR3X",
+            "link": "https://www.youtube.com/watch?v=fC3MieblGgU",
+            "percent": 100,
+            "hz": "144"
+        },
+      {
+            "user": "S9Aspectt",
+            "link": "https://www.youtube.com/watch?v=4RI3_7nBnEU",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=gCkS14nMaEA",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Damian",
+            "link": "https://www.youtube.com/watch?v=hdVjosNQHXY",
+            "percent": 100,
+            "hz": "288"
+        }
+    ]
+}
