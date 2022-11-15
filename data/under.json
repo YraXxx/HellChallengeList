@@ -1,0 +1,35 @@
+{
+    "id": 77163285,
+    "name": "Under",
+    "author": "Grilled",
+    "creators": [],
+    "verifier": "Grilled",
+    "verification": "https://www.youtube.com/watch?v=1nLl_TOfE6Y",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=FbjW2oJb5A0",
+            "percent": 100,
+            "hz": "240"
+        },
+       {
+            "user": "KubixonGD",
+            "link": "https://www.youtube.com/watch?v=gZ5MlAPduos",
+            "percent": 100,
+            "hz": "288"
+        },
+      {
+            "user": "Lunk",
+            "link": "https://streamable.com/dyykyf",
+            "percent": 100,
+            "hz": "144"
+        },
+      {
+            "user": "Damian",
+            "link": "https://www.youtube.com/watch?v=-SBeovpw7No",
+            "percent": 100,
+            "hz": "288"
+        }
+    ]
+}
