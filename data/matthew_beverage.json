@@ -1,0 +1,59 @@
+{
+    "id": 76615965,
+    "name": "Matthew Beverage",
+    "author": "wia",
+    "creators": [],
+    "verifier": "wia",
+    "verification": "https://www.youtube.com/watch?v=T7tVAnxkMbk",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Ghoster",
+            "link": "https://www.youtube.com/watch?v=3wsJ_PKzc_U",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=nztpTi3hDsU",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=LNPTc7eJJfg",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Vreck",
+            "link": "https://www.youtube.com/watch?v=sRtwm3v383w",
+            "percent": 100,
+            "hz": "144"
+        },
+      {
+            "user": "PokeNinja77",
+            "link": "https://www.youtube.com/watch?v=dvEFKlll7LU",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "KubixonGD",
+            "link": "https://www.youtube.com/watch?v=sUlhv-1ylBg",
+            "percent": 100,
+            "hz": "288"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=Lp2dUOG_M2E",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=e93R2ARwbuo",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
