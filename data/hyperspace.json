@@ -1,0 +1,35 @@
+{
+    "id": 76928849,
+    "name": "HyperSpace",
+    "author": "Vreck",
+    "creators": [],
+    "verifier": "Vreck",
+    "verification": "https://www.youtube.com/watch?v=fkxP0mc2VpM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Grilled",
+            "link": "https://www.youtube.com/watch?v=VMvLeqjcWZE",
+            "percent": 100,
+            "hz": "240"
+        },
+       {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=0WVT7JWYMns",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=wzigZMJnt_0",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=JPr4QUSnRBk",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
