@@ -1,0 +1,17 @@
+{
+    "id": 78339778,
+    "name": "Its Hell Guy",
+    "author": "Keruo",
+    "creators": [],
+    "verifier": "Ghoster",
+    "verification": "https://www.youtube.com/watch?v=8eysbtXHHl4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=vKA7xa63V3U",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
