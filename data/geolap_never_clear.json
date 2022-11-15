@@ -1,0 +1,23 @@
+{
+    "id": 79361810,
+    "name": "Geolap never clear",
+    "author": "Quicksi",
+    "creators": [],
+    "verifier": "Quicksi",
+    "verification": "https://www.youtube.com/watch?v=Gqj56GKB9Qk",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "zchchampque",
+            "link": "https://www.youtube.com/watch?v=PUylIO6Zrp4",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=-iANm90-7jI",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
