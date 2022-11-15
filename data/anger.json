@@ -1,0 +1,17 @@
+{
+    "id": 78142295,
+    "name": "Anger",
+    "author": "Cric2",
+    "creators": [],
+    "verifier": "Cric2",
+    "verification": "https://www.youtube.com/watch?v=VgSs3xqzNYY",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Damian",
+            "link": "https://www.youtube.com/watch?v=VgSs3xqzNYY",
+            "percent": 100,
+            "hz": "288"
+        }
+    ]
+}
