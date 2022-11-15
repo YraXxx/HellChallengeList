@@ -1,0 +1,59 @@
+{
+    "id": 77551201,
+    "name": "Cuprum Furnace",
+    "author": "SaYR3X",
+    "creators": [],
+    "verifier": "SaYR3X",
+    "verification": "https://www.youtube.com/watch?v=F-GSHguB3Yg",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=WIsDsfhHeSI",
+            "percent": 100,
+            "hz": "240"
+        },
+       {
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=dXDXTfrzaKc",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Ghoster",
+            "link": "https://www.youtube.com/watch?v=FNZqtUOBzqs",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Sometwo",
+            "link": "https://www.youtube.com/watch?v=KL7CBVninak",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "KubixonGD",
+            "link": "https://www.youtube.com/watch?v=Hr66NGsZKmY",
+            "percent": 100,
+            "hz": "288"
+        },
+      {
+            "user": "Grilled",
+            "link": "https://www.youtube.com/watch?v=64J7ruY_NJw",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=e9guqP8UaeA",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "clone_gd",
+            "link": "https://www.youtube.com/watch?v=-L8Hnm2dD_8",
+            "percent": 100,
+            "hz": "330"
+        }
+    ]
+}
