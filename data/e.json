@@ -1,0 +1,60 @@
+{
+    "id": 77720041,
+    "name": "E",
+    "author": "Grilled",
+    "creators": ["YraX",
+                "Grilled"],
+    "verifier": "Grilled",
+    "verification": "https://www.youtube.com/watch?v=gFHG0bGnKnc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=iaK0kIvFgUU",
+            "percent": 100,
+            "hz": "240"
+        },
+       {
+            "user": "KubixonGD",
+            "link": "https://www.youtube.com/watch?v=rghqD_zQH8Q",
+            "percent": 100,
+            "hz": "288"
+        },
+      {
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=HMS8TpyVHgg",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "SaYR3X",
+            "link": "https://www.youtube.com/watch?v=BBhA4HXu5fA",
+            "percent": 100,
+            "hz": "144"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=7qQfoSlHv-Y",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "GigaChad",
+            "link": "https://www.youtube.com/watch?v=ezfHne6ZT3I",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Damian",
+            "link": "https://www.youtube.com/watch?v=uv2D8ScQ4-g",
+            "percent": 100,
+            "hz": "288"
+        },
+      {
+            "user": "pilot",
+            "link": "https://www.youtube.com/watch?v=4P11IG_jglU",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
