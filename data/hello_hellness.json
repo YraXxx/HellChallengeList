@@ -1,0 +1,29 @@
+{
+    "id": 78313910,
+    "name": "Hello Hellness",
+    "author": "Sometwo",
+    "creators": [],
+    "verifier": "Sometwo",
+    "verification": "https://www.youtube.com/watch?v=s6Ogi3oWJUg",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=KKgSBxYlA2o",
+            "percent": 100,
+            "hz": "240"
+        },
+       {
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=cJrI7-9wNkI",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=tkLJ0ksEbIU",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
