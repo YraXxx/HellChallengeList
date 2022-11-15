@@ -1,0 +1,23 @@
+{
+    "id": 78076863,
+    "name": "Peroneal Tendon",
+    "author": "wia",
+    "creators": [],
+    "verifier": "Grilled",
+    "verification": "https://www.youtube.com/watch?v=NGQQQlo0nOI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=gDynu6OT9Ws",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "Damian",
+            "link": "https://www.youtube.com/watch?v=Yv_lSz4uGv4",
+            "percent": 100,
+            "hz": "288"
+        }
+    ]
+}
