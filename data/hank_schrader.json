@@ -1,0 +1,23 @@
+{
+    "id": 77962928,
+    "name": "Hank Schrader",
+    "author": "johnlikesdiamond",
+    "creators": [],
+    "verifier": "johnlikesdiamond",
+    "verification": "https://www.youtube.com/watch?v=Gj7XIa4qajY",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=bUkR0WW3cO4",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=PTXxWdKY2T8",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
