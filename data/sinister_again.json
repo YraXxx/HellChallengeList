@@ -1,0 +1,29 @@
+{
+    "id": 76572741,
+    "name": "Sinister Again",
+    "author": "S9Aspectt",
+    "creators": [],
+    "verifier": "S9Aspectt",
+    "verification": "https://www.youtube.com/watch?v=ZZWFRvP6JXU",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=DGcbChUuyog",
+            "percent": 100,
+            "hz": "240"
+        },
+       {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=zx6UqJmtJps",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=3BKocXEQUNo",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
