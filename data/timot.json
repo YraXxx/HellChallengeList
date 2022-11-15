@@ -1,0 +1,29 @@
+{
+    "id": 77427596,
+    "name": "Timot",
+    "author": "S9Aspectt",
+    "creators": [],
+    "verifier": "S9Aspectt",
+    "verification": "https://www.youtube.com/watch?v=HvEUqToAlPs",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "SaYR3X",
+            "link": "https://www.youtube.com/watch?v=bxwM5bT42uY",
+            "percent": 100,
+            "hz": "144"
+        },
+       {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=tnEVfWwjsNU",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=eN8z3l-w13s",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
