@@ -1,0 +1,29 @@
+{
+    "id": 76694955,
+    "name": "HHR",
+    "author": "Ghoster",
+    "creators": [],
+    "verifier": "Ghoster",
+    "verification": "https://www.youtube.com/watch?v=Z9cFYWXBnPI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Swerp",
+            "link": "https://www.youtube.com/watch?v=lb1-b9UaOd4",
+            "percent": 100,
+            "hz": "144"
+        },
+       {
+            "user": "pilot",
+            "link": "https://www.youtube.com/watch?v=-POE_zZUm2E",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=AkIqr99UGtc",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
