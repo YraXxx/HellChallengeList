@@ -1,0 +1,35 @@
+{
+    "id": 77132417,
+    "name": "666 has lost meaning",
+    "author": "Keruo",
+    "creators": [],
+    "verifier": "Keruo",
+    "verification": "https://www.youtube.com/watch?v=S3awB0U5Fgk",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=-u1MKC7rNN0",
+            "percent": 100,
+            "hz": "240"
+        },
+       {
+            "user": "Lunk",
+            "link": "https://streamable.com/8wnydh",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=jh_X9I8Hbbw",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Damian",
+            "link": "https://www.youtube.com/watch?v=D1pcNtraC3Y",
+            "percent": 100,
+            "hz": "288"
+        }
+    ]
+}
