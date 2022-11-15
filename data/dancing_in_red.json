@@ -1,0 +1,23 @@
+{
+    "id": 78530764,
+    "name": "Dancing In Red",
+    "author": "Sometwo",
+    "creators": [],
+    "verifier": "Keruo",
+    "verification": "https://www.youtube.com/watch?v=pTj5AoVuXw0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=xNUSG8WO8Wo",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=-iANm90-7jI",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
