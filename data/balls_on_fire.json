@@ -1,0 +1,47 @@
+{
+    "id": 77096955,
+    "name": "Balls on Fire",
+    "author": "Sometwo",
+    "creators": [],
+    "verifier": "Cric2",
+    "verification": "https://www.youtube.com/watch?v=l2z6HwPFy8Y",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=gna4zN-mdjo",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "KubixonGD",
+            "link": "https://www.youtube.com/watch?v=D2qPx1VCvDc",
+            "percent": 100,
+            "hz": "288"
+        },
+      {
+            "user": "Chiyasi",
+            "link": "https://www.youtube.com/watch?v=kohLRZtSTOw",
+            "percent": 100,
+            "hz": "330"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=W52SG-NmcY8",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "IPRG",
+            "link": "https://www.youtube.com/watch?v=73-qk7CxjGE",
+            "percent": 100,
+            "hz": "288"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=E7Xl-_-tfho",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
