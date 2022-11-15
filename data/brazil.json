@@ -1,0 +1,23 @@
+{
+    "id": 77429281,
+    "name": "Brazil",
+    "author": "S9Aspectt",
+    "creators": [],
+    "verifier": "S9Aspectt",
+    "verification": "https://www.youtube.com/watch?v=c5WLxZFMjSI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=vjhczumomDM",
+            "percent": 100,
+            "hz": "240"
+        },
+       {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=z6ZT66xONHo",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
