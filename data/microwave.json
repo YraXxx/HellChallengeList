@@ -1,0 +1,35 @@
+{
+    "id": 78019773,
+    "name": "Microwave",
+    "author": "Sometwo",
+    "creators": [],
+    "verifier": "SaYR3X",
+    "verification": "https://www.youtube.com/watch?v=TIqMSfvFCrE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=Lmn4exgb0B8",
+            "percent": 100,
+            "hz": "240"
+        },
+       {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=_rKUd-0NBo8",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=mS8qUKiR_6k",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "zchchampque",
+            "link": "https://www.youtube.com/watch?v=wRZiwCuyCMY",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
