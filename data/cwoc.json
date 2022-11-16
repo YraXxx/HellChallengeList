@@ -1,0 +1,35 @@
+{
+    "id": 77234790,
+    "name": "cwoc",
+    "author": "Ghoster",
+    "creators": [],
+    "verifier": "Ghoster",
+    "verification": "https://www.youtube.com/watch?v=T0WWwCouju8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=9KIglufL-eQ",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "KubixonGD",
+            "link": "https://www.youtube.com/watch?v=H-7hfP5QddQ",
+            "percent": 100,
+            "hz": "288"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=5nsE230Zr2c",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=5XdfgERN-_g",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
