@@ -1,0 +1,47 @@
+{
+    "id": 76902724,
+    "name": "Achilles Tendon",
+    "author": "wia",
+    "creators": [],
+    "verifier": "YraX",
+    "verification": "https://www.youtube.com/watch?v=tr9zV09cZ5g",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Vreck",
+            "link": "https://www.youtube.com/watch?v=gt_B9RXSyGo",
+            "percent": 100,
+            "hz": "120"
+        },
+       {
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=K-Acc9t4iQs",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Swerp",
+            "link": "https://www.youtube.com/watch?v=pBouHLSzGcY",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=wD30AU35JV8",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Sometwo",
+            "link": "https://www.youtube.com/watch?v=GLEwvWPp23c",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=-XjyCP99tn8",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
