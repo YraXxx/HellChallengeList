@@ -1,0 +1,53 @@
+{
+    "id": 76564130,
+    "name": "CodeRed",
+    "author": "YraX",
+    "creators": [],
+    "verifier": "YraX",
+    "verification": "https://www.youtube.com/watch?v=hdxVmKINj5k",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ThatGuyFroGG",
+            "link": "https://www.youtube.com/watch?v=CElyZMHin3s",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "Ghoster",
+            "link": "https://www.youtube.com/watch?v=W80WHa8B0tk",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=UgotoFpG2v8",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Grilled",
+            "link": "https://www.youtube.com/watch?v=cNIkE1bDdMI",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=t2Y6Kf-kr1U",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "S9Aspectt",
+            "link": "https://www.youtube.com/watch?v=RHuPmwZtUP4",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=EWJUfaSMlEA",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
