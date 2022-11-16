@@ -1,0 +1,41 @@
+{
+    "id": 77075335,
+    "name": "Tartarus",
+    "author": "Sulferz",
+    "creators": [],
+    "verifier": "Sulferz",
+    "verification": "https://www.youtube.com/watch?v=4HuNLLkvem8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "PokeNinja77",
+            "link": "https://www.youtube.com/watch?v=naYc4076x7Y",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=qqrWJx3rjAE",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "clone_gd",
+            "link": "https://www.youtube.com/watch?v=Nditi2SeGM0",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=Gn37k-6mtVo",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "ThatGuyFroGG",
+            "link": "https://www.youtube.com/watch?v=t2EM6mT5VxQ",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
