@@ -1,0 +1,23 @@
+{
+    "id": 80621863,
+    "name": "VHC",
+    "author": "KDNeverPositive",
+    "creators": [],
+    "verifier": "KDNeverPositive",
+    "verification": "https://www.youtube.com/watch?v=H9lDbEtD2Jw",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=-iANm90-7jI",
+            "percent": 100,
+            "hz": "240"
+        },
+       {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=uyGwt3-izfE",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
