@@ -1,0 +1,29 @@
+{
+    "id": 77846754,
+    "name": "Flaming Rice Cooker",
+    "author": "Yitu",
+    "creators": [],
+    "verifier": "IPRG",
+    "verification": "https://www.youtube.com/watch?v=o-aaA4_Xxjc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Damian",
+            "link": "https://www.youtube.com/watch?v=Mqs-QnS7Mwk",
+            "percent": 100,
+            "hz": "288"
+        },
+       {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=-iANm90-7jI",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=8vxhZGulhIA",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
