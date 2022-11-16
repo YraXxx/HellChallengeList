@@ -1,0 +1,29 @@
+{
+    "id": 76942922,
+    "name": "Asmodeus",
+    "author": "Swerp",
+    "creators": [],
+    "verifier": "Swerp",
+    "verification": "https://www.youtube.com/watch?v=RwzOmj5CInA",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Ghoster",
+            "link": "https://www.youtube.com/watch?v=Xu9cW3JXvAQ",
+            "percent": 100,
+            "hz": "240"
+        },
+       {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=VmWDZlPnGWQ",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=5WDxW1aTiY8",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
