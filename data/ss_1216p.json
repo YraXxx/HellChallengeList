@@ -1,0 +1,53 @@
+{
+    "id": 76931040,
+    "name": "SS 1216P",
+    "author": "Vreck",
+    "creators": [],
+    "verifier": "Vreck",
+    "verification": "https://www.youtube.com/watch?v=KnoSNA9mjk8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Ghoster",
+            "link": "https://www.youtube.com/watch?v=wK9Bw-KK-2M",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "Grilled",
+            "link": "https://www.youtube.com/watch?v=D0_DgMOMB2Y",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=GHQnq-VMUGU",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "KubixonGD",
+            "link": "https://www.youtube.com/watch?v=H-7hfP5QddQ",
+            "percent": 100,
+            "hz": "288"
+        },
+      {
+            "user": "Lunk",
+            "link": "https://streamable.com/rt100y",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=OI65Lz5rMxM",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=AvGg4lDFP2U",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
