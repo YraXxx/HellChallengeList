@@ -8,16 +8,28 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "johnlikesdiamond",
-            "link": "https://www.youtube.com/watch?v=gXuS6PyBjzo",
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=Xbi6y_NUvx8",
             "percent": 100,
             "hz": "360"
         },
        {
-            "user": "Damian",
-            "link": "https://www.youtube.com/watch?v=5rxNQFsuG3U",
+            "user": "SaYR3X",
+            "link": "https://www.youtube.com/watch?v=lZwnpXxGmR8",
             "percent": 100,
-            "hz": "288"
+            "hz": "144"
+        },
+        {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=gk_hWlA2hjs",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=-0nR2aGHslo",
+            "percent": 100,
+            "hz": "360"
         }
     ]
 }
