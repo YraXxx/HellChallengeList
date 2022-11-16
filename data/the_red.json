@@ -1,0 +1,17 @@
+{
+    "id": 78810943,
+    "name": "The Red",
+    "author": "zLuca",
+    "creators": [],
+    "verifier": "Cric2",
+    "verification": "https://www.youtube.com/watch?v=h7L3mh3WRyI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Damian",
+            "link": "https://www.youtube.com/watch?v=MXoB5je757c",
+            "percent": 100,
+            "hz": "288"
+        }
+    ]
+}
