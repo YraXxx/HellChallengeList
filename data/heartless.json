@@ -1,0 +1,59 @@
+{
+    "id": 76941468,
+    "name": "Heartless",
+    "author": "YraX",
+    "creators": [],
+    "verifier": "YraX",
+    "verification": "https://www.youtube.com/watch?v=6ViSeEtrF00",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=jCjsSXujyGw",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "KDNeverPositive",
+            "link": "https://www.youtube.com/watch?v=-_43UqwdXAU",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=7QtgAE95ROk",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "GayNascarGuy",
+            "link": "https://www.youtube.com/watch?v=DS1FvaVmm8E",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "KubixonGD",
+            "link": "https://www.youtube.com/watch?v=BzwpbOiPndo",
+            "percent": 100,
+            "hz": "288"
+        },
+      {
+            "user": "Chiyasi",
+            "link": "https://www.youtube.com/watch?v=_0aVL66CRnU",
+            "percent": 100,
+            "hz": "330"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=MqOYdgYWRAk",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "JaydenVH",
+            "link": "https://www.youtube.com/watch?v=2IfB_oxP4eU",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
