@@ -1,0 +1,35 @@
+{
+    "id": 77078915,
+    "name": "ineedtoseeyourballs",
+    "author": "KDNeverPositive",
+    "creators": [],
+    "verifier": "KDNeverPositive",
+    "verification": "https://www.youtube.com/watch?v=s6lnrGeArL0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "KubixonGD",
+            "link": "https://www.youtube.com/watch?v=1COY9-kG5vc",
+            "percent": 100,
+            "hz": "288"
+        },
+       {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=y2P0qEjjSgo",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "JaydenVH",
+            "link": "https://www.youtube.com/watch?v=2IfB_oxP4eU",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=XY_gk4PBKH4",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
