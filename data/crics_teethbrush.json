@@ -1,0 +1,29 @@
+{
+    "id": 76923996,
+    "name": "Crics Teethbrush",
+    "author": "JesseGaming",
+    "creators": [],
+    "verifier": "JesseGaming",
+    "verification": "https://www.youtube.com/watch?v=Ul0QCtf0ofA",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=bKJhZIJP9NQ",
+            "percent": 100,
+            "hz": "240"
+        },
+       {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=Ppz_CUKQC3Q",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "JaydenVH",
+            "link": "https://www.youtube.com/watch?v=2IfB_oxP4eU",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
