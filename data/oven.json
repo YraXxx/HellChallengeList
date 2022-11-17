@@ -1,0 +1,47 @@
+{
+    "id": 76579311,
+    "name": "Oven",
+    "author": "Sometwo",
+    "creators": [],
+    "verifier": "Sometwo",
+    "verification": "https://youtu.be/HRssUpxYtX8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=D5ZDJb8A07Q",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=7XvAO8BLuT4",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=3v603v8LVTQ",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "SaYR3X",
+            "link": "https://www.youtube.com/watch?v=X_HN4Z5NKjo",
+            "percent": 100,
+            "hz": "144"
+        },
+      {
+            "user": "JaydenVH",
+            "link": "https://www.youtube.com/watch?v=2IfB_oxP4eU",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "ThatGuyFroGG",
+            "link": "https://www.youtube.com/watch?v=VBEntSpB8uI",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
