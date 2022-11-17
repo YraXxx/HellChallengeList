@@ -1,0 +1,35 @@
+{
+    "id": 77591748,
+    "name": "Bumba",
+    "author": "clone_gd",
+    "creators": [],
+    "verifier": "Cric2",
+    "verification": "https://www.youtube.com/watch?v=AlCD2_bLLBw",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "PokeNinja77",
+            "link": "https://www.youtube.com/watch?v=sdHF734HuWQ",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "KubixonGD",
+            "link": "https://www.youtube.com/watch?v=veKzw3YYA2E",
+            "percent": 100,
+            "hz": "288"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=Qfvp3JH-Lmc",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "JaydenVH",
+            "link": "https://www.youtube.com/watch?v=2IfB_oxP4eU",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
