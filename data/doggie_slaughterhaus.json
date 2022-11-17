@@ -1,0 +1,29 @@
+{
+    "id": 76952624,
+    "name": "Doggie Slaughterhaus",
+    "author": "Cric2",
+    "creators": [],
+    "verifier": "Cric2",
+    "verification": "https://www.youtube.com/watch?v=9tY6pkQK_do",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=ZcVErDEchRA",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=I8SPO7U9t2c",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "JaydenVH",
+            "link": "https://www.youtube.com/watch?v=2IfB_oxP4eU",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
