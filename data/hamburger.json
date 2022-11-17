@@ -1,0 +1,23 @@
+{
+    "id": 79130762,
+    "name": "Hamburger",
+    "author": "CasualTalker",
+    "creators": [],
+    "verifier": "johnlikesdiamond",
+    "verification": "https://www.youtube.com/watch?v=-M7PPia7tzc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "JaydenVH",
+            "link": "https://www.youtube.com/watch?v=2IfB_oxP4eU",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=-iANm90-7jI",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
