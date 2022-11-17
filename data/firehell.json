@@ -1,0 +1,59 @@
+{
+    "id": 76540993,
+    "name": "FireHell",
+    "author": "ThatGuyFroGG",
+    "creators": [],
+    "verifier": "ThatGuyFroGG",
+    "verification": "https://www.youtube.com/watch?v=Bi0xd35pSH8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Skeletonette",
+            "link": "https://www.youtube.com/watch?v=1DG0hE1fXDU",
+            "percent": 100,
+            "hz": "144"
+        },
+       {
+            "user": "Swerp",
+            "link": "https://www.youtube.com/watch?v=daMgq0sebRo",
+            "percent": 100,
+            "hz": "144"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=UN2OE8ph4Tw",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Grilled",
+            "link": "https://www.youtube.com/watch?v=8n5ZmEG8Ze8",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Sometwo",
+            "link": "https://www.youtube.com/watch?v=JMNSl1ktahY",
+            "percent": 100,
+            "hz": "75"
+        },
+      {
+            "user": "KubixonGD",
+            "link": "https://www.youtube.com/watch?v=sSfxiGGyM98",
+            "percent": 100,
+            "hz": "288"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=FMKIDhYjCWE",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "BensonGD",
+            "link": "https://www.youtube.com/watch?v=B1qcIVaZ7LY",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
