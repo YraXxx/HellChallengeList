@@ -1,0 +1,65 @@
+{
+    "id": 76892947,
+    "name": "Vibing In Red",
+    "author": "Sometwo",
+    "creators": [],
+    "verifier": "Sometwo",
+    "verification": "https://www.youtube.com/watch?v=Qkc37GdO5uc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "wia",
+            "link": "https://www.youtube.com/watch?v=caOPWEffTeo",
+            "percent": 100,
+            "hz": "180"
+        },
+       {
+            "user": "Keruo",
+            "link": "https://www.youtube.com/watch?v=8GHofJoHO7o",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Swerp",
+            "link": "https://www.youtube.com/watch?v=MxTJcWPJ5Rk",
+            "percent": 100,
+            "hz": "144"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=lUhen_gFXHU",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "clone_gd",
+            "link": "https://www.youtube.com/watch?v=54rIDxZFpcE",
+            "percent": 100,
+            "hz": "330"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=Eghwguo7cpI",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "SaYR3X",
+            "link": "https://www.youtube.com/watch?v=Mxd3Wyz65KU",
+            "percent": 100,
+            "hz": "144"
+        },
+      {
+            "user": "IPRG",
+            "link": "https://www.youtube.com/watch?v=9vSNFnCJ150",
+            "percent": 100,
+            "hz": "144"
+        },
+      {
+            "user": "ThatGuyFroGG",
+            "link": "https://www.youtube.com/watch?v=d0Coarey_gE",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
