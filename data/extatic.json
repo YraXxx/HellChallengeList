@@ -6,5 +6,12 @@
     "verifier": "IPRG",
     "verification": "https://youtu.be/jt8AULLUO_g",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "YraX",
+            "link": "https://youtu.be/Q86lNH8Fxko",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
 }
