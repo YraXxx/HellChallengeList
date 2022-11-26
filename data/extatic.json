@@ -7,11 +7,17 @@
     "verification": "https://youtu.be/jt8AULLUO_g",
     "percentToQualify": 100,
     "records": [
-    {
+        {
             "user": "YraX",
             "link": "https://youtu.be/Q86lNH8Fxko",
             "percent": 100,
             "hz": "360"
+        }
+        {
+            "user": "Cric2",
+            "link": "https://youtu.be/BqvtkruOGNg",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
