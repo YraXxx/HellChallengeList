@@ -1,8 +1,8 @@
 {
     "id": 78053685,
     "name": "c",
-    "author": "IPRG",
-    "creators": [],
+    "author": "Lunk",
+    "creators": ["IPRG"],
     "verifier": "Lunk",
     "verification": "https://www.youtube.com/watch?v=Dss3Hh9DJjE",
     "percentToQualify": 100,
