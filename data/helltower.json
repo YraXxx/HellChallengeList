@@ -7,5 +7,12 @@
     "verifier": "Marramix",
     "verification": "https://youtu.be/22WMvIM8J3A",
     "percentToQualify": 69,
-    "records": []
+    "records": [
+    {
+            "user": "johnlikesdiamond",
+            "link": "https://youtu.be/wvQYmM60J9M",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
 }
