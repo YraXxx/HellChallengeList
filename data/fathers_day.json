@@ -6,5 +6,12 @@
     "verifier": "Osmix",
     "verification": "https://youtu.be/eHm9yTqqW4c",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=xgWPmn8QDB4",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
 }
