@@ -18,6 +18,12 @@
             "link": "https://youtu.be/PKXi0_KGduE",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "Petar",
+            "link": "https://www.youtube.com/watch?v=yoTQlpQUDlU",
+            "percent": 100,
+            "hz": "144"
         }
     ]
 }
