@@ -3,16 +3,10 @@
     "name": "Ground",
     "author": "Grilled",
     "creators": [],
-    "verifier": "Grilled",
-    "verification": "https://www.youtube.com/watch?v=HG37i0A_g_M",
+    "verifier": "Lunk",
+    "verification": "https://streamable.com/43gz2j",
     "percentToQualify": 51,
     "records": [
-        {
-            "user": "Lunk",
-            "link": "https://streamable.com/43gz2j",
-            "percent": 100,
-            "hz": "360"
-        },
        {
             "user": "BensonGD",
             "link": "https://www.youtube.com/watch?v=lq8RSNP5yJw",
