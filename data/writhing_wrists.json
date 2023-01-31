@@ -8,9 +8,10 @@
     "percentToQualify": 100,
     "records": [
     {
-            "user": "Damian",
-            "link": "https://www.youtube.com/watch?v=9f18qp7mPfY",
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=7Y87A44D2Dg",
             "percent": 100,
-            "hz": "288"
-        }]
+            "hz": "240"
+        }
+    ]
 }
