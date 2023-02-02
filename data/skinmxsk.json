@@ -1,0 +1,23 @@
+{
+    "id": 87081961,
+    "name": "skinmxsk",
+    "author": "opaque",
+    "creators": [],
+    "verifier": "opaque",
+    "verification": "https://www.youtube.com/watch?v=O8zgwqt1WO4",
+    "percentToQualify": 64,
+    "records": [
+       {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=Qygm4KCx6P0",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://youtu.be/54_DsI53MoY",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
