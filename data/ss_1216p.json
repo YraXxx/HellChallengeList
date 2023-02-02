@@ -42,6 +42,12 @@
             "link": "https://www.youtube.com/watch?v=AvGg4lDFP2U",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "Sliced",
+            "link": "https://youtu.be/dAzV4AgXW6c",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
