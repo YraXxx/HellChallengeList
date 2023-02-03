@@ -1,0 +1,17 @@
+{
+    "id": 78266891,
+    "name": "The Imperfect Run",
+    "author": "Balls Inspector",
+    "creators": [],
+    "verifier": "Floory",
+    "verification": "https://youtu.be/C1C3Aqr9hr8",
+    "percentToQualify": 69,
+    "records": [
+       {
+            "user": "johnlikesdiamond",
+            "link": "https://youtu.be/HRrCFfXjPhU",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
