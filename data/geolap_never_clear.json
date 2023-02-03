@@ -30,6 +30,18 @@
             "link": "https://youtu.be/fLDXhkFoxwU",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "Grilled",
+            "link": "https://www.youtube.com/watch?v=UAOMH7rZSiA",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "Sliced",
+            "link": "https://youtu.be/sMrRi86y56U",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
