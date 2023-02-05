@@ -1,0 +1,29 @@
+{
+    "id": 88359068,
+    "name": "Silver Cyanide",
+    "author": "YraX",
+    "creators": ["YraX","Grilled"],
+    "verifier": "YraX",
+    "verification": "https://youtu.be/uAChIvwewWc",
+    "percentToQualify": 100,
+    "records": [
+       {
+            "user": "Grilled",
+            "link": "https://youtu.be/5Tn_AszhMiw",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "johnlikesdiamond",
+            "link": "https://youtu.be/H3OG5ZH0IC0",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://youtu.be/YKF84XF5lv4",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
