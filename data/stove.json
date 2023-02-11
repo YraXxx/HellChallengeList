@@ -36,6 +36,12 @@
             "link": "https://www.youtube.com/watch?v=sG8R0x_aE8E",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "Sometwo",
+            "link": "https://www.youtube.com/watch?v=H5scZEOCGyg",
+            "percent": 100,
+            "hz": "75"
         }
     ]
 }
