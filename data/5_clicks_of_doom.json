@@ -55,6 +55,13 @@
             "percent": 100,
             "hz": "60",
             "mobile": true
+        },
+        {
+            "user": "Mintstorm",
+            "link": "https://youtu.be/q9u-vw0Yhag",
+            "percent": 100,
+            "hz": "60",
+            "mobile": true
         }
     ]
 }
