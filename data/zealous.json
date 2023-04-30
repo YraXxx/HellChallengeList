@@ -1,0 +1,23 @@
+{
+    "id": 90147088,
+    "name": "Zealous",
+    "author": "Keruo",
+    "creators": [],
+    "verifier": "Keruo",
+    "verification": "https://youtu.be/3ZqD_-w2zbo",
+    "percentToQualify": 100,
+    "records": [
+       {
+            "user": "johnlikesdiamond",
+            "link": "https://youtu.be/O-WED9hlRn0",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://youtu.be/yJWFR5-MNE0",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
