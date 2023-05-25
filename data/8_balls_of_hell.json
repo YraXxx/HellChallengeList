@@ -1,0 +1,23 @@
+{
+    "id": 77846754,
+    "name": "8 Balls Of Hell",
+    "author": "PurplePyro",
+    "creators": [],
+    "verifier": "PurplePyro",
+    "verification": "https://youtu.be/5NogPARyjXI",
+    "percentToQualify": 100,
+    "records": [
+       {
+            "user": "johnlikesdiamond",
+            "link": "https://youtu.be/OK8Ow02zvkU",
+            "percent": 100,
+            "hz": "60"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://youtu.be/yWcS7SywLK0",
+            "percent": 100,
+            "hz": "60"
+        }
+    ]
+}
