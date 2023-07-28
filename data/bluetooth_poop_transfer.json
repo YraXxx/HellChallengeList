@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=5rxNQFsuG3U",
             "percent": 100,
             "hz": "288"
+        },
+        {
+            "user": "UltraDogPower",
+            "link": "https://www.youtube.com/watch?v=LCy0eDjNvzk",
+            "percent": 10000,
+            "hz": "1"
         }
     ]
 }
