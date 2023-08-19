@@ -1,5 +1,5 @@
 {
-    "id": 78146666,
+    "id": 93581107,
     "name": "Nostalgia",
     "author": "UltraDogPower",
     "creators": [],
@@ -30,6 +30,12 @@
             "link": "https://www.youtube.com/watch?v=VYzGiDNoomk",
             "percent": 100,
             "hz": "240"
+        },
+        {
+            "user": "UltraDogPower",
+            "link": "https://youtube.com/shorts/wxN5KFx6dP8?feature=share",
+            "percent": 100,
+            "hz": "60"
         }
     ]
 }
