@@ -1,1 +1,17 @@
-
+{
+    "id": 93623388,
+    "name": "Blizz",
+    "author": "UltraDogPower",
+    "creators": [],
+    "verifier": "UltraDogPower",
+    "verification": "https://youtube.com/shorts/XQrNas5UYgI?feature=share",
+    "percentToQualify": 100,
+    "records": [
+       {
+            "user": "Cric2",
+            "link": "https://youtu.be/AeRJCQoS-88",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
