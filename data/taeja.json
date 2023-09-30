@@ -6,5 +6,12 @@
     "verifier": "UltraDogPower",
     "verification": "https://youtu.be/3ZN6wvTdi4w",
     "percentToQualify": 46,
-    "records": []
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=SwKVW5CB9Sw",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
 }
