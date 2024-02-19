@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=ifPBsAcl1lU",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "Lunk",
+            "link": "https://www.youtube.com/watch?v=bMpxu2F_4wY",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
