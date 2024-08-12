@@ -6,6 +6,13 @@
     "verifier": "johnlikesdiamond",
     "verification": "https://youtu.be/gW4RCcVMuPw",
     "percentToQualify": 48,
-    "records": []
+    "records": [
+        {
+            "user": "Dumbai",
+            "link": "https://www.youtube.com/watch?v=TcIiJSGnX-Y",
+            "percent": 100,
+            "hz": "360000000042069"
+        }
+    ]
 }
         
