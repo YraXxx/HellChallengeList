@@ -1,0 +1,17 @@
+{
+    "id": 113212106,
+    "name": "Despair",
+    "author": "RipLuck461",
+    "creators": [],
+    "verifier": "NiceOne",
+    "verification": "https://www.youtube.com/watch?v=s5O-z-g2s2A",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://youtu.be/oTR9sMnqDlA",
+            "percent": 100,
+            "hz": "120"
+        }
+    ]
+}
