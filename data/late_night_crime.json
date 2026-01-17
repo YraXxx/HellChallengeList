@@ -7,6 +7,11 @@
     "verification": "https://youtu.be/bc_VXrneE_M",
     "percentToQualify": 100,
     "records": [
-        
+        {
+            "user": "IlyasGamesGD",
+            "link": "https://www.youtube.com/watch?v=DxY29UPlDYk",
+            "percent": 100,
+            "hz": "240"
+        }
     ]
 }
