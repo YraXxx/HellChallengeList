@@ -7,6 +7,11 @@
     "verification": "https://youtu.be/DxY29UPlDYk",
     "percentToQualify": 100,
     "records": [
-        
+        {
+            "user": "Cric2",
+            "link": "https://youtu.be/m5j4QR467cA",
+            "percent": 100,
+            "hz": "120"
+        }
     ]
 }
