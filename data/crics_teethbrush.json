@@ -25,12 +25,20 @@
             "percent": 100,
             "hz": "360"
         },
-              {
+      {
             "user": "Grilled",
             "link": "https://youtu.be/NyzIUxAUp_0",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "IlyasGamesGD",
+            "link": "https://youtu.be/myke056Jdgg?si=KGCTBjXUh_oFj83y",
+            "percent": 100,
+            "hz": "240"
         }
+        
+        
         
     ]
 }
