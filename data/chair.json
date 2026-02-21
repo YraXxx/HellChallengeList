@@ -1,1 +1,17 @@
-
+{
+    "id": 133836981,
+    "name": "Chair",
+    "author": "KDNeverPositive",
+    "creators": ["KDNeverPositive"],
+    "verifier": "KDNeverPositive",
+    "verification": "https://youtu.be/CPay6Kw92ak?si=xPJ8e2EPfFJg6rc5",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://youtu.be/DL4Xct7xedc",
+            "percent": 100,
+            "hz": "120"
+        }
+    ]
+}
