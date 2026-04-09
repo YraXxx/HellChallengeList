@@ -6,5 +6,12 @@
     "verifier": "Vreck",
     "verification": "https://youtube.com/shorts/4LQgB6CrOJU?si=l_9MI7OuKcZPNfzX",
     "percentToQualify": 71,
-    "records": []
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=ldjPnPpvkrU",
+            "percent": 100,
+            "hz": "120"
+        }
+    ]
 }
