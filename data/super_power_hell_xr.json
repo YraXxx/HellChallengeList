@@ -1,1 +1,17 @@
-
+{
+    "id": 144868514,
+    "name": "Super Power Hell XR",
+    "author": "Waleedisms",
+    "creators": [],
+    "verifier": "Waleedisms",
+    "verification": "https://youtu.be/QAmVf9az8K4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=TII7TLvMmIg",
+            "percent": 100,
+            "hz": "120"
+        }
+    ]
+}
