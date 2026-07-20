@@ -53,7 +53,20 @@
             "user": "bluzy",
             "link": "https://medal.tv/games/geometry-dash/clips/n9kcTDVc4TOj54JdF?invite=cr-MSwxaUgsNDg2NjczMTg3",
             "percent": 100,
-            "hz": "666"
+            "hz": "60"
+        },
+        {
+            "user": "IlyasGamesGD",
+            "link": "https://www.youtube.com/watch?v=qu7xl5M-uhw",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "landronsupercollider (meneertje koekepeertje) (laundry)",
+            "link": "https://youtu.be/TPkEs3AMELU?is=mhqqEa-EIzYGQ4TC",
+            "percent": 100,
+            "hz": "60"
         }
+        
     ]
 }
